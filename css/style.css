@@ -1,0 +1,53 @@
+body{
+  font-size: 14px;
+}
+
+nav {
+  /* nav bar has the fallowing style guide */
+  background-color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+section {
+  margin: 0 auto;
+  width: 60%;
+  padding-top: 100px;
+}
+
+h1 {
+  font-family sans-serif;
+  font-size: 2em;
+}
+
+.example, h3 {
+  padding-top: 30px;
+  text-align center
+  font-size: 1.3em;
+}
+
+
+.element {
+  /* elements have the following style guide*/
+  background-color: green;
+  height: 100px;
+  margin 10px;
+  width: 100%;
+}
+
+  .element7 {
+    /* background color blue for element7 */
+    background-color: blue;
+  }
+
+  .element8{
+    /* background color lime for element8 */
+    background-color: lime;
+  }
+
+  .element9{
+    /* background color turquoise for element9 */
+    background-color: turquoise;
+  }
